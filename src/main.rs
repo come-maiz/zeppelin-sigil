@@ -15,7 +15,7 @@ use svg::node::element::path::Data;
 
 fn main() {
 
-    let address = "0xb232C56b46AAF1291065Df4AcCe228aB0840a12dZ";
+    let address = "0xb232C56b46AAF1291065Df4AcCe228aB0840a12d";
 
     let center: f32 = 450.0;
     let radius: f32 = 380.0;
