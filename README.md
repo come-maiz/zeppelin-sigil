@@ -2,11 +2,11 @@
 
 :warning: Prototype :warning:
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 <img src="/examples/sigil1.png?raw=true" width="30%" title="sigil example 1"> <img src="/examples/sigil2.png?raw=true" width="30%" title="sigil example 2"> <img src="/examples/sigil3.png?raw=true" width="30%" title="sigil example 3">
 
-Visual representation of Ethereum addresses using magical sigils.
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+> Visual representation of Ethereum addresses using magical sigils.
 
 ## Security
 
