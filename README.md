@@ -56,6 +56,8 @@ cargo run
 performance art,
 [Claves Angelicae](https://claves-angelicae.github.io/dossier/). Check it out!
 
+bodoni for the [svg crate](https://github.com/bodoni/svg).
+
 [Automata Network](http://automata.network/) for the impromptu mini hackathon.
 
 [Zeppelin](https://zeppelin.solutions) for being all kinds of awesome. We get
